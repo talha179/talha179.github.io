@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans+Condensed:300,700');
+body {
+  background-color: white;
+  color: black;
+  font-family: Open Sans Condensed;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: grey;
+  text-align: center;
+}
+hr {
+  border: 2px solid: black;
+  max-width: 100px;
+  margin: 40px auto;
+  color: black;
+}
+p {
+  text-align: center;
+  color: grey;
+  font-size: 35px;
+}
+h3{
+  text-align: center;
+  color: grey;
+  font-size: 35px;
+}
+img {
+  display: block;
+  margin: auto;
+}
